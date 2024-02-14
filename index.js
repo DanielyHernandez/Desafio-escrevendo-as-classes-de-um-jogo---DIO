@@ -22,7 +22,7 @@ class Heroi {
     }
 }
 
-// Exemplo de uso:
+
 const heroi1 = new Heroi("Gandalf", 120, "mago");
 const heroi2 = new Heroi("Legolas", 293, "ninja");
 const heroi3 = new Heroi("Aragorn", 210, "guerreiro");
